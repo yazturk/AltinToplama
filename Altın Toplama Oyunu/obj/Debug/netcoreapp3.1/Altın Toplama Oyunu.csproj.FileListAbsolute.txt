@@ -1,0 +1,32 @@
+C:\Users\Ahmet Yaztürk\source\repos\Altın Toplama Oyunu\bin\Debug\netcoreapp3.1\Altın Toplama Oyunu.exe
+C:\Users\Ahmet Yaztürk\source\repos\Altın Toplama Oyunu\bin\Debug\netcoreapp3.1\Altın Toplama Oyunu.deps.json
+C:\Users\Ahmet Yaztürk\source\repos\Altın Toplama Oyunu\bin\Debug\netcoreapp3.1\Altın Toplama Oyunu.runtimeconfig.json
+C:\Users\Ahmet Yaztürk\source\repos\Altın Toplama Oyunu\bin\Debug\netcoreapp3.1\Altın Toplama Oyunu.runtimeconfig.dev.json
+C:\Users\Ahmet Yaztürk\source\repos\Altın Toplama Oyunu\bin\Debug\netcoreapp3.1\Altın Toplama Oyunu.dll
+C:\Users\Ahmet Yaztürk\source\repos\Altın Toplama Oyunu\bin\Debug\netcoreapp3.1\Altın Toplama Oyunu.pdb
+C:\Users\Ahmet Yaztürk\source\repos\Altın Toplama Oyunu\obj\Debug\netcoreapp3.1\Altın Toplama Oyunu.csprojAssemblyReference.cache
+C:\Users\Ahmet Yaztürk\source\repos\Altın Toplama Oyunu\obj\Debug\netcoreapp3.1\Altın Toplama Oyunu.AssemblyInfoInputs.cache
+C:\Users\Ahmet Yaztürk\source\repos\Altın Toplama Oyunu\obj\Debug\netcoreapp3.1\Altın Toplama Oyunu.AssemblyInfo.cs
+C:\Users\Ahmet Yaztürk\source\repos\Altın Toplama Oyunu\obj\Debug\netcoreapp3.1\Altın Toplama Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Yaztürk\source\repos\Altın Toplama Oyunu\obj\Debug\netcoreapp3.1\Altın Toplama Oyunu.dll
+C:\Users\Ahmet Yaztürk\source\repos\Altın Toplama Oyunu\obj\Debug\netcoreapp3.1\Altın Toplama Oyunu.pdb
+C:\Users\Ahmet Yaztürk\source\repos\Altın Toplama Oyunu\obj\Debug\netcoreapp3.1\Altın Toplama Oyunu.genruntimeconfig.cache
+C:\Users\Ahmet Yaztürk\source\repos\Altın Toplama Oyunu\obj\Debug\netcoreapp3.1\Altın_Toplama_Oyunu.Form1.resources
+C:\Users\Ahmet Yaztürk\source\repos\Altın Toplama Oyunu\obj\Debug\netcoreapp3.1\Altın Toplama Oyunu.csproj.GenerateResource.cache
+C:\Users\Ahmet Yaztürk\source\repos\Altın Toplama Oyunu\obj\Debug\netcoreapp3.1\Altın_Toplama_Oyunu.SettingsForm.resources
+E:\2020_Dersler\Yazılım Laboratuvarı 1\Proje 1 - Altın Toplama Oyunu\Altın Toplama Oyunu\obj\Debug\netcoreapp3.1\Altın Toplama Oyunu.csprojAssemblyReference.cache
+E:\2020_Dersler\Yazılım Laboratuvarı 1\Proje 1 - Altın Toplama Oyunu\Altın Toplama Oyunu\obj\Debug\netcoreapp3.1\Altın_Toplama_Oyunu.Form1.resources
+E:\2020_Dersler\Yazılım Laboratuvarı 1\Proje 1 - Altın Toplama Oyunu\Altın Toplama Oyunu\obj\Debug\netcoreapp3.1\Altın_Toplama_Oyunu.SettingsForm.resources
+E:\2020_Dersler\Yazılım Laboratuvarı 1\Proje 1 - Altın Toplama Oyunu\Altın Toplama Oyunu\obj\Debug\netcoreapp3.1\Altın Toplama Oyunu.csproj.GenerateResource.cache
+E:\2020_Dersler\Yazılım Laboratuvarı 1\Proje 1 - Altın Toplama Oyunu\Altın Toplama Oyunu\obj\Debug\netcoreapp3.1\Altın Toplama Oyunu.AssemblyInfoInputs.cache
+E:\2020_Dersler\Yazılım Laboratuvarı 1\Proje 1 - Altın Toplama Oyunu\Altın Toplama Oyunu\obj\Debug\netcoreapp3.1\Altın Toplama Oyunu.AssemblyInfo.cs
+E:\2020_Dersler\Yazılım Laboratuvarı 1\Proje 1 - Altın Toplama Oyunu\Altın Toplama Oyunu\obj\Debug\netcoreapp3.1\Altın Toplama Oyunu.csproj.CoreCompileInputs.cache
+E:\2020_Dersler\Yazılım Laboratuvarı 1\Proje 1 - Altın Toplama Oyunu\Altın Toplama Oyunu\obj\Debug\netcoreapp3.1\Altın Toplama Oyunu.dll
+E:\2020_Dersler\Yazılım Laboratuvarı 1\Proje 1 - Altın Toplama Oyunu\Altın Toplama Oyunu\obj\Debug\netcoreapp3.1\Altın Toplama Oyunu.pdb
+E:\2020_Dersler\Yazılım Laboratuvarı 1\Proje 1 - Altın Toplama Oyunu\Altın Toplama Oyunu\bin\Debug\netcoreapp3.1\Altın Toplama Oyunu.exe
+E:\2020_Dersler\Yazılım Laboratuvarı 1\Proje 1 - Altın Toplama Oyunu\Altın Toplama Oyunu\bin\Debug\netcoreapp3.1\Altın Toplama Oyunu.deps.json
+E:\2020_Dersler\Yazılım Laboratuvarı 1\Proje 1 - Altın Toplama Oyunu\Altın Toplama Oyunu\bin\Debug\netcoreapp3.1\Altın Toplama Oyunu.runtimeconfig.json
+E:\2020_Dersler\Yazılım Laboratuvarı 1\Proje 1 - Altın Toplama Oyunu\Altın Toplama Oyunu\bin\Debug\netcoreapp3.1\Altın Toplama Oyunu.runtimeconfig.dev.json
+E:\2020_Dersler\Yazılım Laboratuvarı 1\Proje 1 - Altın Toplama Oyunu\Altın Toplama Oyunu\bin\Debug\netcoreapp3.1\Altın Toplama Oyunu.dll
+E:\2020_Dersler\Yazılım Laboratuvarı 1\Proje 1 - Altın Toplama Oyunu\Altın Toplama Oyunu\bin\Debug\netcoreapp3.1\Altın Toplama Oyunu.pdb
+E:\2020_Dersler\Yazılım Laboratuvarı 1\Proje 1 - Altın Toplama Oyunu\Altın Toplama Oyunu\obj\Debug\netcoreapp3.1\Altın Toplama Oyunu.genruntimeconfig.cache
